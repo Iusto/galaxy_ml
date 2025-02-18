@@ -1,4 +1,4 @@
-# 🚀 AI 기반 자동화 프로젝트 포트폴리오  
+# 🚀 AI 프로젝트 포트폴리오  
 
 ## 📌 프로젝트 개요  
 본 저장소는 Python을 활용한 데이터 분석, AI 모델 개발, RPA 자동화 프로젝트**를 포함합니다.  
@@ -14,12 +14,12 @@
 
 ## 📂 프로젝트 목록  
 
-### **1️⃣ [AI 기반 천체 분류 모델 (Galaxy ML)](./galaxy_ml/)**
-📌 **개요**: 머신러닝을 활용하여 천체 이미지를 분류하는 AI 모델 개발  
-🔧 **사용 기술**: TensorFlow, CNN, OpenCV  
-📊 **결과**: 분류 정확도 85% 이상 달성  
+### [AI 기반 천체 분류 모델 (Galaxy ML)](./galaxy_ml/)**
+📌 개요: 머신러닝을 활용하여 천체 이미지를 분류하는 AI 모델 개발  
+🔧 사용 기술: TensorFlow, CNN, OpenCV  
+📊 결과: 분류 정확도 85% 이상 달성  
 
-```python
+python
 # 예제 코드: CNN 모델 구축
 model = Sequential([
     Conv2D(32, (3,3), activation='relu', input_shape=(128, 128, 3)),
