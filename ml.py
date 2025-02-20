@@ -69,10 +69,7 @@ print(x_val.shape)
 print(y_val.shape)
 print('-' * 20)
 
-# model = load_model('김정규.keras')
-model = load_model('조원근.keras')
-# model = load_model('이지운.keras')
-# model = load_model('서형근.keras')
+model = load_model('galaxy.keras')
 
 # # 모델 구조 변경
 # model = Sequential()
