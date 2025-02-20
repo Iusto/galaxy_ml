@@ -7,7 +7,7 @@
 ## 🛠 기술 스택  
 - 프로그래밍 언어: Python  
 - 데이터 분석 & 처리: Pandas, NumPy, OpenCV  
-- 머신러닝 & AI: TensorFlow, Keras, Scikit-learn  
+- 머신러닝 & AI: TensorFlow, Keras, Scikit-learn, pytorch  
 - 웹 크롤링 & 자동화: Selenium  
 - 개발 환경: pycharm, Google Colab
 
