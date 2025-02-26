@@ -18,7 +18,6 @@
     🔧 사용 기술: TensorFlow, CNN, OpenCV  
     📊 결과: 분류 정확도 85% 이상 달성  
 
-python
 ## 예제 코드: CNN 모델 구축
     model = Sequential([
         Conv2D(32, (3,3), activation='relu', input_shape=(128, 128, 3)),
