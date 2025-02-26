@@ -11,7 +11,6 @@
 - 웹 크롤링 & 자동화: Selenium  
 - 개발 환경: pycharm, Google Colab
 
-
 ## 📂 프로젝트 목록  
 
 ### [AI 기반 천체 분류 모델 (Galaxy ML)](./galaxy_ml/)**
