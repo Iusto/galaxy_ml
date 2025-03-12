@@ -33,6 +33,8 @@
     나선은하 (S): 53,334개
     나선막대은하 (SB): 51,008개
 
+    link 버튼 클릭 시, 데이터 셋 다운가능
+
 ## 최근 변경 사항(Improve ML 참조)
     1. 데이터 증강 추가 (ImageDataGenerator에 다양한 변형 옵션 추가)
     2. ResNet50 사전 학습 모델 사용 (transfer learning 적용)
