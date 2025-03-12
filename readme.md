@@ -37,7 +37,7 @@
 
 
 
-## 최근 변경 사항
+## 최근 변경 사항(Improve ML 참조)
     1. 데이터 증강 추가 (ImageDataGenerator에 다양한 변형 옵션 추가)
     2. ResNet50 사전 학습 모델 사용 (transfer learning 적용)
     3. ReduceLROnPlateau 추가 (학습률 감소 적용)
