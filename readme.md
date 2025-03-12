@@ -32,10 +32,8 @@
     타원은하 (E): 59,071개
     나선은하 (S): 53,334개
     나선막대은하 (SB): 51,008개
-
-## 추가파일 & 데이터셋
+    <br>
     https://drive.google.com/drive/folders/1WcU0HNk9OJnWv1Jijs93IIgEm22qYuzh?usp=drive_link
-
 
 
 ## 최근 변경 사항(Improve ML 참조)
