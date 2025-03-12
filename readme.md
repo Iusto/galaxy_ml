@@ -28,13 +28,12 @@
     ])
 
 
-## dataset
+## dataset & link(https://drive.google.com/file/d/1IJxSUsAFV3cUPBROa9uWaJI6zQm6UgcC/view?usp=sharing)
     타원은하 (E): 59,071개
     나선은하 (S): 53,334개
     나선막대은하 (SB): 51,008개
 
-    https://drive.google.com/drive/folders/1WcU0HNk9OJnWv1Jijs93IIgEm22qYuzh?usp=drive_link
-
+    https://drive.google.com/file/d/1IJxSUsAFV3cUPBROa9uWaJI6zQm6UgcC/view?usp=sharing
 
 ## 최근 변경 사항(Improve ML 참조)
     1. 데이터 증강 추가 (ImageDataGenerator에 다양한 변형 옵션 추가)
