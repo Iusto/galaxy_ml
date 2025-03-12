@@ -34,3 +34,14 @@
 
 ## 추가파일 & 데이터셋
     https://drive.google.com/file/d/1pfqD37Q6PtJV58iqrqLUHPPrd_JzJS3L/view?usp=drive_link
+
+
+
+## 최근 변경 사항
+    1. 데이터 증강 추가 (ImageDataGenerator에 다양한 변형 옵션 추가)
+    2. ResNet50 사전 학습 모델 사용 (transfer learning 적용)
+    3. ReduceLROnPlateau 추가 (학습률 감소 적용)
+    4. SGD(momentum=0.9) 옵티마이저로 변경
+    5. BatchNormalization 추가 (모델 성능 안정화)
+    6. 클래스 불균형 고려하여 class_weight 적용
+    위와같은 파라미터 조정 후 머신러닝 진행 중
