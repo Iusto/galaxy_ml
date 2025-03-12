@@ -16,7 +16,7 @@
 ### [AI 기반 천체 분류 모델](https://github.com/Iusto/galaxy_ml)
     📌 개요: 머신러닝을 활용하여 천체 이미지를 분류하는 AI 모델 개발  
     🔧 사용 기술: TensorFlow, CNN, OpenCV  
-    📊 결과: 분류 정확도 85% 이상 달성  
+    📊 결과: 분류 정확도 75% 이상 달성  
 
 ## 예제 코드: CNN 모델 구축
     model = Sequential([
