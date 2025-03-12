@@ -29,6 +29,7 @@
 
 
 ## dataset & [link](https://drive.google.com/file/d/1IJxSUsAFV3cUPBROa9uWaJI6zQm6UgcC/view?usp=sharing)
+    ![Image](https://github.com/user-attachments/assets/63d7fe9f-8b93-4caf-8578-0af58b96ac4d)
     타원은하 (E): 59,071개
     나선은하 (S): 53,334개
     나선막대은하 (SB): 51,008개
