@@ -33,7 +33,7 @@
   train - 30000
 
 ## 추가파일 & 데이터셋
-    https://drive.google.com/file/d/1pfqD37Q6PtJV58iqrqLUHPPrd_JzJS3L/view?usp=drive_link
+    https://drive.google.com/drive/folders/1WcU0HNk9OJnWv1Jijs93IIgEm22qYuzh?usp=drive_link
 
 
 
